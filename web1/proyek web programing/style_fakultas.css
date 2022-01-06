@@ -1,0 +1,141 @@
+/*fakultas*/
+body {background-color: rgb(215, 215, 250); font-family: Arial, Helvetica, sans-serif; margin: 0; font-weight: lighter;}
+.top {background-image: url(wall.jpg); background-size: cover; height: 90vh; opacity: 90%;}
+.menu img {float: left; width:300px; padding-left: 90px;}
+.bghitam {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.menu ul{list-style: none;display: inline-flex; float: right; padding-right: 80px; padding-top: 20px;}
+.menu ul li{padding-right: 20px; }
+.menu ul li a {text-decoration: none; cursor: pointer; color: white;}
+.menu ul li a:hover {color: #1CAAE9;}
+.text { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.text h1 {font-size: 40px;}
+.text span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.text span a{text-decoration: none; color: white; border: 1px solid transparent; padding-top: 20px;}
+
+/*main*/
+.main{margin-top: 160px;margin-right: 10px;margin-bottom: 60px;margin-left: 10px;}
+.left{width: 300px;border: 1px solid #ada7a7;padding: 10px;margin: 10px;float: left;color: white;}
+.left img{max-width: 80%;}
+.middle{width: 600px;border: 1px solid #ada7a7;padding: 10px;margin: 10px;float: left;color: white;background-color: rgb(22, 22, 29);}
+.right{width: 300px;border: 1px solid #ada7a7;padding: 10px;margin: 10px;float: left;color: white;}
+.right img{max-width: 80%;}
+
+/*footer*/
+
+/*teknik&informatika*/
+.first {background-image: url(wall2.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.home img {float: left; width:300px; padding-left: 90px;}
+.bgbiru {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.home ul{list-style: none;display: inline-flex; float: right; padding-right: 80px; padding-top: 20px;}
+.home ul li{padding-right: 20px; }
+.home ul li a {text-decoration: none; cursor: pointer; color: white;}
+.home ul li a:hover {color: #1CAAE9;}
+.deskripsi { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.deskripsi h1 {font-size: 40px;}
+.deskripsi span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.deskripsi span a{text-decoration: none; color: white; border: 1px solid transparent; padding-top: 20px;}
+.teori { padding-top: 50px; text-align: justify; }
+.teori h1 h2 p {font-weight: lighter; }
+.teori p {opacity: 70%;}
+.teori ol {opacity: 70%;}
+
+/*ekonomi&bisnis*/
+.second {background-image: url(hotel.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.profil img {float: left; width:300px; padding-left: 90px;}
+.bgmerah {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.profil ul{list-style: none;display: inline-flex; float: right; padding-right: 80px; padding-top: 20px;}
+.profil ul li{padding-right: 20px; }
+.profil ul li a {text-decoration: none; cursor: pointer; color: white;}
+.profil ul li a:hover {color: #1CAAE9;}
+.konten { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.konten h1 {font-size: 40px;}
+.konten span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.konten span a{text-decoration: none; color: white; border: 1px solid transparent; padding-top: 20px;}
+.materi { padding-top: 50px; text-align: justify; }
+.materi h1 h2 p {font-weight: lighter; }
+.materi p {opacity: 70%;}
+.materi ol {opacity: 70%;}
+
+/*sistem informasi*/
+.third {background-image: url(wall2.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.beranda img {float: left; width:300px; padding-left: 90px;}
+.bgkuning {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.isi { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.isi h1 {font-size: 40px;}
+.isi span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.isi span a{text-decoration: none; color: rgb(248, 240, 240); border: 1px solid transparent; padding-top: 20px;}
+.isi-materi { padding-top: 50px; text-align: justify; }
+.isi-materi h1 h2 p {font-weight: lighter; }
+.isi-materi p {opacity: 70%;}
+.isi-materi ol{opacity: 70%;}
+.vidio span{ padding-left: 350px;}
+
+/*teknologi informasi*/
+.four {background-image: url(wall2.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.beranda2 img {float: left; width:300px; padding-left: 90px;}
+.bghijau {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.isi-2 { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.isi-2 h1 {font-size: 40px;}
+.isi-2 span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.isi-2 span a{text-decoration: none; color: rgb(248, 240, 240); border: 1px solid transparent; padding-top: 20px;}
+.isi-materi2 { padding-top: 50px; text-align: justify; }
+.isi-materi2 h1 h2 p {font-weight: lighter; }
+.isi-materi2 p {opacity: 70%;}
+.isi-materi2 ol{opacity: 70%;}
+.vidio2 span{ padding-left: 350px;}
+
+/*teknologi komputer*/
+.five {background-image: url(wall2.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.beranda3 img {float: left; width:300px; padding-left: 90px;}
+.bgbiru {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.isi-3 { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.isi-3 h1 {font-size: 40px;}
+.isi-3 span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.isi-3 span a{text-decoration: none; color: rgb(248, 240, 240); border: 1px solid transparent; padding-top: 20px;}
+.isi-materi3 { padding-top: 50px; text-align: justify; }
+.isi-materi3 h1 h2 p {font-weight: lighter; }
+.isi-materi3 p {opacity: 70%;}
+.isi-materi3 ol{opacity: 70%;}
+.vidio3 span{ padding-left: 350px;}
+
+/*manajemen*/
+.six {background-image: url(hotel.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.beranda4 img {float: left; width:300px; padding-left: 90px;}
+.bgpink {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.isi-4 { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.isi-4 h1 {font-size: 40px;}
+.isi-4 span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.isi-4 span a{text-decoration: none; color: rgb(248, 240, 240); border: 1px solid transparent; padding-top: 20px;}
+.isi-materi4 { padding-top: 50px; text-align: justify; }
+.isi-materi4 h1 h2 p {font-weight: lighter; }
+.isi-materi4 p {opacity: 70%;}
+.isi-materi4 ol{opacity: 70%;}
+.vidio4 span{ padding-left: 350px;}
+
+/*akuntansi*/
+.seven {background-image: url(hotel.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.beranda5 img {float: left; width:300px; padding-left: 90px;}
+.bgorange {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.isi-5 { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.isi-5 h1 {font-size: 40px;}
+.isi-5 span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.isi-5 span a{text-decoration: none; color: rgb(248, 240, 240); border: 1px solid transparent; padding-top: 20px;}
+.isi-materi5 { padding-top: 50px; text-align: justify; }
+.isi-materi5 h1 h2 p {font-weight: lighter; }
+.isi-materi5 p {opacity: 70%;}
+.isi-materi5 ol{opacity: 70%;}
+.vidio5 span{ padding-left: 350px;}
+
+/*perhotelan*/
+.eight {background-image: url(hotel.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.beranda6 img {float: left; width:300px; padding-left: 90px;}
+.bggrey {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.isi-6 { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.isi-6 h1 {font-size: 40px;}
+.isi-6 span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.isi-6 span a{text-decoration: none; color: rgb(248, 240, 240); border: 1px solid transparent; padding-top: 20px;}
+.isi-materi6 { padding-top: 50px; text-align: justify; }
+.isi-materi6 h1 h2 p {font-weight: lighter; }
+.isi-materi6 p {opacity: 70%;}
+.isi-materi6 ol{opacity: 70%;}
+.vidio6 span{ padding-left: 350px;}
